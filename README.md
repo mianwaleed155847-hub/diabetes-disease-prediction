@@ -18,7 +18,7 @@ A Machine Learning project that predicts whether a patient has diabetes or not u
 ##  Project Structure
 - `diabetes.csv` — Original dataset
 - `diabetes_cleaned.csv` — Cleaned dataset
-- `diabetes_prediction.ipynb` — Main notebook
+- `diabetes.ipynb` — Main notebook
 
 ##  Project Workflow
 1. Exploratory Data Analysis (EDA)
